@@ -1,8 +1,8 @@
 ---
-title: About
+title: 关于
 icon: fas fa-info-circle
 order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+> **自我介绍**: 大家好，我是Alan，是个游戏开发者。
